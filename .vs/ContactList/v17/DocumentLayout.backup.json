@@ -3,15 +3,11 @@
   "WorkspaceRootPath": "D:\\contact-list-winforms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FCD9EF2-4BAF-441A-9941-89A4492170A5}|ContactList\\ContactList.csproj|d:\\contact-list-winforms\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9FCD9EF2-4BAF-441A-9941-89A4492170A5}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FCD9EF2-4BAF-441A-9941-89A4492170A5}|ContactList\\ContactList.csproj|D:\\contact-list-winforms\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FCD9EF2-4BAF-441A-9941-89A4492170A5}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FCD9EF2-4BAF-441A-9941-89A4492170A5}|ContactList\\ContactList.csproj|d:\\contact-list-winforms\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9FCD9EF2-4BAF-441A-9941-89A4492170A5}|ContactList\\ContactList.csproj|D:\\contact-list-winforms\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9FCD9EF2-4BAF-441A-9941-89A4492170A5}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -27,31 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddContactForm.cs [Design]",
-              "DocumentMoniker": "D:\\contact-list-winforms\\ContactList\\AddContactForm.cs",
-              "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
-              "ToolTip": "D:\\contact-list-winforms\\ContactList\\AddContactForm.cs [Design]",
-              "RelativeToolTip": "ContactList\\AddContactForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T01:40:25.571Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\contact-list-winforms\\ContactList\\Form1.cs",
               "RelativeDocumentMoniker": "ContactList\\Form1.cs",
               "ToolTip": "D:\\contact-list-winforms\\ContactList\\Form1.cs",
               "RelativeToolTip": "ContactList\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIAwwB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwBgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T01:15:03.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\contact-list-winforms\\ContactList\\Form1.cs",
               "RelativeDocumentMoniker": "ContactList\\Form1.cs",
