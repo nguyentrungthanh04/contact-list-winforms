@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\contact-list-winforms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FCD9EF2-4BAF-441A-9941-89A4492170A5}|ContactList\\ContactList.csproj|D:\\contact-list-winforms\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FCD9EF2-4BAF-441A-9941-89A4492170A5}|ContactList\\ContactList.csproj|d:\\contact-list-winforms\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FCD9EF2-4BAF-441A-9941-89A4492170A5}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -42,8 +42,7 @@
               "ToolTip": "D:\\contact-list-winforms\\ContactList\\Form1.cs [Design]",
               "RelativeToolTip": "ContactList\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T01:14:20.412Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-27T01:14:20.412Z"
             }
           ]
         }
